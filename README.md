@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](link)
-- Live Site URL: [link](link)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/social-proof-section-using-html-css-and-grid-9FpPbk4quG)
+- Live Site URL: [link](https://social-proof-section-master-pi-pink.vercel.app/)
 
 ## My process
 
