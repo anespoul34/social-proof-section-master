@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [CSS grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - Since i'm not usually using grid, this is a top tier guide.
+- [CSS grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - Since i'm not usually using grid, this is a top tier ressource.
 
 ## Author
 
